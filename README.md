@@ -1,2 +1,3 @@
-# Analisis de  datos (imag scr = "(https://user-images.githubusercontent.com/104397340/171217786-aaac3186-49a7-43ad-81c4-304f6d7266b2.png)" ancho= "100")
+# Analisis de  datos <img src= https://e7.pngegg.com/pngimages/769/950/png-clipart-computer-icons-analytics-data-analysis-symbol-miscellaneous-text.png width = "200" height ="500>
+
 
