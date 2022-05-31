@@ -1,1 +1,2 @@
-# Analisis de  datos (![]imagen(https://user-images.githubusercontent.com/104397340/171217590-049e10ee-f8ca-4446-aadf-94fb3b90261e.png))
+# Analisis de  datos (![image](https://user-images.githubusercontent.com/104397340/171217786-aaac3186-49a7-43ad-81c4-304f6d7266b2.png))
+
